@@ -12,7 +12,7 @@ def open_img(img):
     return img
 
 def load_model():
-    predictive_model = keras.models.load_model("model.keras")
+    predictive_model = keras.models.load_model("modelFCNN.keras")
     return predictive_model
 
 def preprocess_img(img):
