@@ -58,3 +58,12 @@ To analyze which model is better, we need to consider various aspects such as lo
 
 ### Conclusion
 The Encoder-Decoder Architecture with CNN, Early Stopping, Batch Normalization, Pooling, and Dropout outperforms all other models in this comparison. It achieves the highest accuracy, precision, and recall with the lowest loss, making it the best model for MNIST digit recognition in this analysis.
+
+
+### In this Project
+
+**MNIST Digit Recognition Model**  
+Tech Stack: Python, TensorFlow, OpenCV, NumPy
+- Developed and compared various deep learning models to classify digits from the MNIST dataset.
+- Evaluated five different architectures and incorporated techniques like batch normalization, dropout, pooling, and early stopping.
+- Achieved 99.46% accuracy by integrating Encoder-Decoder Architechture, CNN, early stopping, batch normalization, pooling, and dropout, outperforming traditional FCNN and RNN models
